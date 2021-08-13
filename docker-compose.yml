@@ -1,0 +1,9 @@
+
+version: '3'
+services:
+  # dynamodb local (開発用)
+  dynamodb:
+    image: amazon/dynamodb-local
+    container_name: golang-dynamodb-local
+    ports:
+      - "8000:8000"
