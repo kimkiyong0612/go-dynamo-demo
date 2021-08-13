@@ -16,3 +16,6 @@
 
 #build
 go-dynamo-demo
+
+#env
+.env

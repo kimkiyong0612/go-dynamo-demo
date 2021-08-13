@@ -1,2 +1,2 @@
-AWS_REGION=ap-northeast-1
-DYNAMO_ENDPOINT=127.0.0.1
+AWS_REGION="ap-northeast-1"
+DYNAMO_ENDPOINT="http://localhost:8000"
